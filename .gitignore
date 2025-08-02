@@ -2,3 +2,4 @@
 .terraform.lock.hcl
 terraform.tfstate
 iactutorial-467611-eb47ffb11d64.json
+terraform.tfstate.backup
