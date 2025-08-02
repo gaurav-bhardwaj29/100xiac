@@ -1,4 +1,5 @@
 .terraform
 *.tfstate
 *.tfstate.backup    
-*.tfvars
+.terraform.lock.hcl
+iactutorial-467611-eb47ffb11d64.json
